@@ -1,4 +1,4 @@
-// DEFININDO TIPOS COMPOSTOS
+// DEFININDO TIPOS COMPOSTOS (Union)
 
 // Tipo MyBoll
 type MyBool = true | false;
