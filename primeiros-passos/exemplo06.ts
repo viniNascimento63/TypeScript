@@ -24,7 +24,9 @@ const rect = { x: 33, y: 3, width: 30, height: 80 };
 logPoint(rect);
 
 const color = { hex: "#187ABF" };
-logPoint(color); // color não tem o mesmo formato aceito de Point
+// color não tem o mesmo formato aceito de Point
+// Gerando erro
+logPoint(color); 
 
 /* O type-checking também se aplica à classes */
 class VirtualPoint {
