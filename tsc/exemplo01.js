@@ -3,4 +3,4 @@ console.log("Hello, World!");
 function greet(person, date) {
     console.log("Hello ".concat(person, ", today is ").concat(date, "!"));
 }
-greet('Vinícius', 2023);
+greet('Vinícius');
